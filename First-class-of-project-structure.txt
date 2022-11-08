@@ -1,0 +1,107 @@
+clone
+
+main to dev
+
+go through readme file (add access token to yarn.yml file)
+
+(sub module devops,ccad)
+
+add env variable to system and restart vscode add yarn install
+
+provide confige :
+after dependance install => provide confige 
+
+(dont hard code service url so use).env=>keep your config requred to project
+
+getAccessRights = go to fetchhttps = till agilepointserver is api server and we get here username, auth url , email
+
+
+
+
+
+following templete create react app templete
+
+
+
+env.production is put up to portal and portal is responstivle to give all related info
+
+eslintrec = ?
+
+in yarnrc.yml npmscopes: is used to configer agilpoint by the yarn
+
+dockerfile = operantons
+
+
+.tools
+.yscode
+
+action-monitor=auto render
+
+(statemanagement,rendering)
+
+descusion => routing,redux-ui
+
+how yarn maintain development and production?
+
+any new key is add use en and en-us 
+wat-react manage all localy and authrozation = web application toolkit(wat)
+
+
+wat-react-us-form-fields include fields realated to form (text,input)
+
+lib include the code which need to other modules
+common include code common this modules
+modules: core: api,store data, confige data.
+portal: (main changes in protal->components)
+core files are have application changes
+
+
+statemanagement tool , action management plugin => contains usestae, useeffect
+
+dump(components) = no validate, api call
+smart(containers) = do the api or apply validation
+
+" managecenter settings/modules "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+under settings add any route
+
+
+
+
